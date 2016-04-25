@@ -1,0 +1,6 @@
+﻿  DialogueTree.cpp
+c:\users\brandon\documents\visual studio 2015\projects\dialogue-tree\dialogue-tree\dialoguetree.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\visual studio 2015\projects\dialogue-tree\dialogue-tree\dialoguetree.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\visual studio 2015\projects\dialogue-tree\dialogue-tree\dialoguetree.cpp(78): warning C4018: '>': signed/unsigned mismatch
+  Dialogue-Tree.vcxproj -> c:\users\brandon\documents\visual studio 2015\Projects\Dialogue-Tree\Debug\Dialogue-Tree.exe
+  Dialogue-Tree.vcxproj -> c:\users\brandon\documents\visual studio 2015\Projects\Dialogue-Tree\Debug\Dialogue-Tree.pdb (Partial PDB)
